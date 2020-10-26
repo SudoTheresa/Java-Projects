@@ -1,4 +1,7 @@
 //Program to print the sum of the numbers 1 to n given the value of n by the user
+//computes the sum of the range 1 to n
+//computes the product of the range 1 to n
+//finds multiples of three in the range 1 to n
 import java.util.*;
 
 public class PrintSum{
